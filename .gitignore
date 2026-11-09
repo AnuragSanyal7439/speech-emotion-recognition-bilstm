@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.numba_cache/
+/dataset/
+/models/
+/outputs/
+*.zip
+.streamlit/secrets.toml
